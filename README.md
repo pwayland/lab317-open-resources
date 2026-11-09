@@ -4,11 +4,14 @@ Public guides, templates, examples, and other reusable materials from Lab 317 at
 
 ## Status
 
-This repository is being prepared for its first public release. No internal project files are published automatically.
+This repository contains public-ready Lab 317 materials. No internal project files are published automatically.
 
 ## Resources
 
-Published materials will be organized in [`resources/`](resources/README.md). Each resource should include enough context to understand, adapt, and cite it.
+- [Adaptability as a Central AI Strategy](resources/adaptability-as-a-central-ai-strategy/) - A presentation on AI, economic development, governance, and institutional adaptability in Puerto Rico.
+- [My Failures as a Teacher](resources/my-failures-as-a-teacher/) - A reflective presentation on assessment, course design, competencies, and student learning.
+
+See the complete [`resources/` index](resources/README.md) for presentation context, intended audiences, and reuse terms.
 
 ## Publishing standard
 
