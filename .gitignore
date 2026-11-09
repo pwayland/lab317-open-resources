@@ -1,0 +1,25 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+~$*
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Local tooling and generated caches
+.venv/
+node_modules/
+cache/
+tmp/
+
+# Private staging areas
+private/
+staging/
+internal/
