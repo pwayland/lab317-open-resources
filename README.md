@@ -8,6 +8,7 @@ This repository contains public-ready Lab 317 materials. No internal project fil
 
 ## Resources
 
+- [Student AI Learning and Assignment Prompt Kit](resources/student-ai-learning-prompt-kit/) - English and Spanish prompt collections for studying, tutoring, assignment planning, feedback, and permitted AI-assisted completion.
 - [Adaptability as a Central AI Strategy](resources/adaptability-as-a-central-ai-strategy/) - A presentation on AI, economic development, governance, and institutional adaptability in Puerto Rico.
 - [My Failures as a Teacher](resources/my-failures-as-a-teacher/) - A reflective presentation on assessment, course design, competencies, and student learning.
 
